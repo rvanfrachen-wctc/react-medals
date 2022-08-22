@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-medals/medals-03/static/css/main.dae390f9.css",
+    "main.js": "/react-medals/medals-03/static/js/main.ca2028d2.js",
+    "static/js/787.c8248b89.chunk.js": "/react-medals/medals-03/static/js/787.c8248b89.chunk.js",
+    "index.html": "/react-medals/medals-03/index.html",
+    "main.dae390f9.css.map": "/react-medals/medals-03/static/css/main.dae390f9.css.map",
+    "main.ca2028d2.js.map": "/react-medals/medals-03/static/js/main.ca2028d2.js.map",
+    "787.c8248b89.chunk.js.map": "/react-medals/medals-03/static/js/787.c8248b89.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dae390f9.css",
+    "static/js/main.ca2028d2.js"
+  ]
+}
